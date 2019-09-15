@@ -1,0 +1,23 @@
+{
+  "name": "GS-ILLIBERIS-WP",
+  "version": "1.0.0",
+  "description": "Proyecto web del grupo Scout Illíberis 555.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulsf6/GS-ILLIBERIS-WP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulsf6/GS-ILLIBERIS-WP/issues"
+  },
+  "homepage": "https://github.com/raulsf6/GS-ILLIBERIS-WP#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
