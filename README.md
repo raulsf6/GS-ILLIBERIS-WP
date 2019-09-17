@@ -4,7 +4,7 @@ Proyecto web del grupo Scout Illíberis 555.
 
 ## Front-end
 
-Desarrollado en Bootstrap V3
+Desarrollado en Bootstrap4 usando Pug templates
 
 ## Back-end
 
