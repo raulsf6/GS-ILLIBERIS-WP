@@ -4,6 +4,7 @@
   "description": "Proyecto web del grupo Scout Illíberis 555.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
   }
 }
