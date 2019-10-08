@@ -27,7 +27,12 @@
     color: #FFFF00;
 }
 
-#c1 {
-    color: #FFFF00;
-    padding: 5px;
+#logo1 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+#logoasde{
+    max-width: 125%;
+    max-height: 125%;
 }
